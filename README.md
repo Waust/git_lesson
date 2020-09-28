@@ -37,7 +37,7 @@ Of course each command could be reversed, but some of them are harder to reverse
 
 
 ```bash
-# Your answer
+git clone https://github.com/Waust/git_lesson
 
 ```
 
@@ -46,7 +46,7 @@ If everything is good you should see a directory named **git_lesson** in the fol
 
 ```bash
 # Run this
-ls
+dir
 ```
 
 Is it good? Perfect, now we will just go inside this dowloaded directory for the following exercices. 
